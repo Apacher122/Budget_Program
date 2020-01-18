@@ -1,0 +1,6 @@
+Utilities item ID is 
+ U            ute        25
+The total of all the items purchased is 25.00
+The amount left in the Utilities Budget is 375.00-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X
+
+

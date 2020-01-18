@@ -1,0 +1,3 @@
+H     Housing    750
+U     Utilities  400
+F     Food  350

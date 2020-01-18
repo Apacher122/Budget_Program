@@ -1,0 +1,6 @@
+Food item ID is 
+ F                       25        25
+The total of all the items purchased is 25.00
+The amount left in the Food Budget is 325.00-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X
+
+

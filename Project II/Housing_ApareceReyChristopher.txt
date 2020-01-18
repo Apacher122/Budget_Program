@@ -1,0 +1,12 @@
+Housing item ID is H
+ H       Housing1        51
+ H       Housing2        52
+ H       Housing3        53
+ H       Housing4        54
+ H       Housing6        56
+ H       Housing7        57
+ H       Housing8        58
+ H           Tble     50.98
+ H             50        50
+The total of all the items purchased is 481.98
+The amount left in the Housing Budget is 268.02

@@ -1,0 +1,5 @@
+Utilities item ID is 
+The total of all the items purchased is 0.00
+The amount left in the Utilities Budget is 0.00-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X
+
+
